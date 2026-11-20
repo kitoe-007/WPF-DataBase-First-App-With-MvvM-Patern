@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataBaseFirstWpfApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de41d30d0a78b32aee2bc16d666be3198782f14")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataBaseFirstWpfApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataBaseFirstWpfApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
